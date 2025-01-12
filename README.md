@@ -1,2 +1,2 @@
-# distributed-systems
+# Distributed-Systems
 Project for distributed systems class
